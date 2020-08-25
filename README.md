@@ -1,10 +1,10 @@
 # databox-integration
-A backend application that extract metrics from Twitter and Facebook and sends them to Databox
+A backend application that periodicly extract metrics from Twitter and Facebook and sends them to Databox
 
 ## Requirements
 1. Java 14 (or newer)
 2. Maven 3.6.3 (or newer)
-3. Databox, Twitter and Facebook API credentials
+3. Databox, Twitter and Facebook API credentials. Facebook APP also needs to be reviewed.
 
 ## Usage
 1. Set API credentials in application.properties file
